@@ -9,8 +9,8 @@ Dump Objective-C classes, methods, ivars, and properties directly from runtime i
 ## Preview
 
 <p align="center">
-  <img src="./imgs/1.png" width="280">
-  <img src="./imgs/2.png" width="280">
+  <img src="./imgs/1.jpg" width="280">
+  <img src="./imgs/2.jpg" width="280">
 </p>
 
 ---
