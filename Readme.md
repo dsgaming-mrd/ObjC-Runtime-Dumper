@@ -122,7 +122,7 @@ Example:
 
 ## Author
 
-DS Gaming - Mr D
+- [DS Gaming - Mr D](https://github.com/dsgaming-mrd)
 
 ---
 
