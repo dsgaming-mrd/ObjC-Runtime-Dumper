@@ -100,20 +100,15 @@ This project is still under development.
 
 Some applications may:
 
-- Crash on startup
-- Fail to dump completely
 - Freeze during runtime scanning
 - Some structs may be incomplete, incorrect, or missing fields
 - Some data types may not be fully resolved
-
-Example:
-
-- AppsDump2 may crash even when not enabled
 
 ---
 
 ## Limitations
 
+- Freeze during runtime scanning
 - Does NOT support Apple system applications
 - Some protected apps may block runtime access
 - Swift-only applications may provide limited results
